@@ -1,3 +1,6 @@
+## NAME: BHARATHRAJ M
+## REG.NO: 212224060045
+
 2.Write an assembly language program in 8051 to generate a 10 ms delay using Timer 1 in Mode 1 and toggle an LED connected to Port 1.0 continuously.
 
 # AIM
